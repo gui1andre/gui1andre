@@ -1,21 +1,47 @@
-## Olá, seja bem vindo! Eu sou o Guilherme 👋
+# Olá, eu sou o Guilherme 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gui1andre/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-andre-de-souza-b21b63131/)
+Desenvolvedor de software em São Paulo, atuando como desenvolvedor .net pleno na **SPASSU Tecnologia e Serviços**, alocado no cliente **SME-SP** (Secretaria Municipal de Educação de São Paulo).
 
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 
+## 💼 O que eu faço
 
-### Tecnologias que utilizo:
+Trabalho no **SGP**, uma plataforma open-source de gestão educacional municipal, contribuindo com todo o ciclo de desenvolvimento: back-end, front-end, infraestrutura e qualidade de código.
 
-<div style="display: inline_block"></br>
-  
-<img alt=".net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-<img alt="flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-<img alt="node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img alt="postgres" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-<img alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+## 🛠️ Stack principal
 
-</div>
+**Back-end:** .NET / C#, Java, Node
+**Front-end:** React / TypeScript
+**Mobile:** Flutter
+**Banco de dados:** PostgreSQL, SQLServer, MySql, MongoDB, Elastic
+**Infraestrutura:** Kubernetes, Rancher, Azure
+**CI/CD:** Jenkins, Azure
+**Qualidade de código:** SonarQube
+**Mensageria:** RabbitMQ
+**Observabilidade:** Elastic APM
+
+## 🎮 Fora do código
+
+- 🦅 Vai cortinhians!
+- 🕹️ Jogo no PS5 — PSN: `Gui1andre`
+- 🎯 Overwatch — BattleTag: `Capivara#11554`
+
+## 📫 Contato
+
+- 💼 LinkedIn: `https://www.linkedin.com/in/gui1andre/`
+- 📷 Instagram: `https://www.instagram.com/gui1andre/`
+
+---
