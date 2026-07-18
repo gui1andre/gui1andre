@@ -24,13 +24,21 @@ Trabalho no **SGP**, uma plataforma open-source de gestão educacional municipal
 ## 🛠️ Stack principal
 
 **Back-end:** .NET / C#, Java, Node
+
 **Front-end:** React / TypeScript
+
 **Mobile:** Flutter
+
 **Banco de dados:** PostgreSQL, SQLServer, MySql, MongoDB, Elastic
+
 **Infraestrutura:** Kubernetes, Rancher, Azure
+
 **CI/CD:** Jenkins, Azure
+
 **Qualidade de código:** SonarQube
+
 **Mensageria:** RabbitMQ
+
 **Observabilidade:** Elastic APM
 
 ## 🎮 Fora do código
